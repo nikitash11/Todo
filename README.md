@@ -12,3 +12,10 @@ The main purpose of the Todo is to help organize tasks and learning how to effec
 5. The login form is validated so if you put incorrect email address it will pop a invalid email address message and error warning when the field is empty as well.
 <img src="login_validation_2.png" width="300" height="400">
 
+6. The password field is also validated so you cannot put any incorrect password to login.
+<img src="login_validation_5.png" width="300" height="400">
+
+7. You cannot login with empty fields as well the fields must be filled in with correct credentials.
+<img src="validation_login_1.png" width="300" height="400">
+
+
