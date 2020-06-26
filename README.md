@@ -6,7 +6,10 @@ The main purpose of the Todo is to help organize tasks and learning how to effec
 2. The register form is validated so if one puts incorrect email address format, empty first name, last name or password that is less than 6 characters it throws a error message.
 <img src="register_validation.png" width="300" height="400">
 
-4. You need to login into the todo app by filling in your email address and password. 
+3. You will automatically get logged in to the todo app.
+<img src="deleted_all_task.png" width="300" height="400">
+
+4. If you need to login into the todo app you can do that by filling in your email address and password. 
 <img src="login.png" width="300" height="400">
 
 5. The login form is validated so if you put incorrect email address it will pop a invalid email address message and error warning when the field is empty as well.
