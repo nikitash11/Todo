@@ -22,7 +22,7 @@ The main purpose of the Todo is to help organize tasks and learning how to effec
 <img src="validation_login_1.png" width="300" height="400">
 
 8. You can add new task by clicking on the + sign button on the bottom right corner and as well as you can see the task you have already created.
-<img src="add_task.png" width="300" height="400">
+<img src="task_added.png" width="300" height="400">
 
 9. By clicking on the new task you will see the description of the task to get added, select priority of the task and can select the due date of the task.
 <img src="add_new_task.png" width="300" height="400">
